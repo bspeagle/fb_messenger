@@ -1,0 +1,6 @@
+fbchat
+python-dotenv
+jsonpickle
+numpy
+boto3
+requests
